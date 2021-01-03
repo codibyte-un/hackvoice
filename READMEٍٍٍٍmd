@@ -1,0 +1,21 @@
+# hackvoice
+Hack location by posting link - هک موقعیت مکانی قربانی با ارسال لینک
+
+
+http://t.me/union_honker
+
+
+کد های اجرا در ترموکس :
+
+ apt update
+ apt  install  git  python  php  openssh -y
+ git clone https://github.com/codibyte-un/hacklocation
+ cd hacklocation
+  ython3 loc.py
+
+
+کد های اجرای در لینوکس :
+
+git clone https://github.com/codibyte-un/hacklocation
+cd hacklocation
+ython3 loc.py
